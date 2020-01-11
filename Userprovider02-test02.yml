@@ -1,3 +1,4 @@
+version: Userprovider002
 spring:
   application:
     name: Userprovider01
