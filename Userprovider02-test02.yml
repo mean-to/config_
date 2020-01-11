@@ -1,7 +1,7 @@
 version: Userprovider002-git-update
 spring:
   application:
-    name: Userprovider
+    name: Userprovider002
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/boot002
