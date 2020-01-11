@@ -1,4 +1,5 @@
 version: Userprovider002-git-update
+vv: uu
 spring:
   application:
     name: Userprovider
