@@ -1,4 +1,4 @@
-version: Userprovider002
+version: Userprovider002-git
 spring:
   application:
     name: Userprovider01
