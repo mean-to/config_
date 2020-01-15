@@ -17,6 +17,5 @@ eureka:
       defaultZone: http://localhost:8888/eureka,http://localhost:8889/eureka
 
     show-sql: true
-server:
-  port: 9001
+
 
